@@ -69,9 +69,18 @@ h2{
     border: #cccccc;
 }
 picture{
-    float:left;
+    float: left;
     padding: 5px;
     margin-top: 13px
+}
+figcaption{
+    float: unset;
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+    margin: 5px 0px 5px 0px;
+    overflow: auto;
+
 }
 .p{
     text-align: right;
