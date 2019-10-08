@@ -30,6 +30,7 @@ h2{
     color: #4aaaa5;
     border: #cccccc;
 }
+
 nav{
     text-align: right;
     padding: 2% 15% 0% 0%;
@@ -100,6 +101,9 @@ footer{
     height: 50px;
     padding-bottom: 30px;
     margin-top: 70px;
+}
+.links{
+    margin-bottom: -80px;
 }
 input{
     width: 100%;
